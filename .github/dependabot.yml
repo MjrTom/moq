@@ -6,7 +6,7 @@ updates:
 - package-ecosystem: nuget
   directory: /
   schedule:
-    interval: daily
+    interval: monthly
   groups:
     Azure:
       patterns:
